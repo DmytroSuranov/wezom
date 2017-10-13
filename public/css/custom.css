@@ -1,0 +1,9 @@
+td.add_button_cell{
+    text-align: center;
+}
+.submit_button input{
+    margin-right: 15px;
+}
+body {
+    padding-right: 20px;
+}
